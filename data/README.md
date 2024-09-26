@@ -1,14 +1,12 @@
 ## Health Data
-**hospitalizations and emergency department visits in New York**
-
+### hospitalizations and emergency department visits in New York
 New York State Department of Health SPARCS data reporting system
 
 [For more info](https://www.health.ny.gov/statistics/sparcs/)
 
 
 ## Heat Vulnerable Areas
-**Heat Vulnerability Index data**
-
+### Heat Vulnerability Index data
 City of New York EH Data Portal
 
 [data source link](https://a816-dohbesp.nyc.gov/IndicatorPublic/data-explorer/climate/?id=2411#display=summary)
@@ -18,8 +16,7 @@ City of New York EH Data Portal
 data on surface temperature, green space, air conditioning access, median income, and Black population (the population most excluded from heat resources))
 
 
-**United States Surface Urban Heat Island database**
-
+### United States Surface Urban Heat Island database
 Yale University
 
 [data source link](https://data.mendeley.com/datasets/x9mv4krnm2/3)
@@ -30,8 +27,7 @@ Elevation, Vegetation Index, and Land Surface Temperature
 
 
 ## Built Environment
-**Greenstreets**
-
+### Greenstreets
 NYC Open Data
 
 [data source link](https://data.cityofnewyork.us/dataset/Greenstreets/vzj6-pcjy)
@@ -43,8 +39,7 @@ type of greenstreet: Standard Greenstreet, Pedestrian Refuge, Sitting Area/Trian
 vector data (POLYGON)
 
 
-**Cool It! NYC water features**
-
+### Cool It! NYC water features
 NYC Department of Parks & Recreation
 
 [data source link](https://www.nycgovparks.org/about/health-and-safety-guide/cool-it-nyc)
@@ -54,8 +49,7 @@ undated by borough
 water feature type
 
 
-**Land Cover**
-
+### Land Cover
 NYC Open Data
 
 [data source link](https://data.cityofnewyork.us/Environment/Land-Cover-Raster-Data-2017-6in-Resolution/he6d-2qns/about_data)
@@ -64,8 +58,7 @@ NYC Open Data
 
 
 ## Weather Data
-**Hyperlocal Temperature Monitoring**
-
+### Hyperlocal Temperature Monitoring
 NYC Open Data
 
 [data source link](https://data.cityofnewyork.us/dataset/Hyperlocal-Temperature-Monitoring/qdq3-9eqn/data)
